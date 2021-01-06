@@ -30,7 +30,7 @@ h2{
     width: 70%;
 }
 .top-banner{
-    background-image: url(image/top-banner.png);
+    background-image: url(Image/top-banner.png);
     background-repeat: no-repeat;
 }
 section{
@@ -46,13 +46,13 @@ section{
     font-weight: 700;
 }
 .dream-area{
-    background-image: url(image/dream-bg.png);
+    background-image: url(Image/dream-bg.png);
     background-repeat: no-repeat;
     background-position: right;
 
 }
 .exprence-area{
-    background-image: url(image/exp-bg.png);
+    background-image: url(Image/exp-bg.png);
     background-repeat: no-repeat;
     background-position: left;
 }
